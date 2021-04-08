@@ -7,13 +7,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            var expression = new NCalc2.Expression("2 + 2");
-            var result = expression.Evaluate();
-            int i = Convert.ToInt32(result);
-            Console.WriteLine(result);
-
-            //TestStrings();
-            //TestStringBuilder();
+            TestStrings();
+            TestStringBuilder();
 
             Console.ReadLine();
         }
