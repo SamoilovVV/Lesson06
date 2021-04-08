@@ -5,8 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="NCalc2" Version="2.1.0" />
-  </ItemGroup>
-
 </Project>
