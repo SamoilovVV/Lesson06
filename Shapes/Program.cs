@@ -11,7 +11,7 @@ namespace Shapes
 		{
 			try
             {
-				Box container = new Box(20);
+				Box container = new Box(30);
 
 				var shapes = new List<Shape>();
 
